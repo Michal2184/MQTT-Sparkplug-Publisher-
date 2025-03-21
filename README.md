@@ -21,3 +21,8 @@ This is a lightweight GUI application built to assist with debugging and validat
 
 ```bash
 pip install pysparkplug paho-mqtt
+
+
+## 📬 License
+
+This project is provided as-is for SCADA testing and educational purposes.
