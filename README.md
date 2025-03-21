@@ -21,7 +21,7 @@ This is a lightweight GUI application built to assist with debugging and validat
 
 ```bash
 pip install pysparkplug paho-mqtt
-
+```
 
 ## 📬 License
 
