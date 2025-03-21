@@ -28,7 +28,7 @@ pip install pysparkplug paho-mqtt
 1. Run the client script:
 
 ```bash
-python OPCUAServer_GUI4a.py
+python sparkplug-publisher.py
 ```
 
 
