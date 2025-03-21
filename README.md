@@ -23,6 +23,15 @@ This is a lightweight GUI application built to assist with debugging and validat
 pip install pysparkplug paho-mqtt
 ```
 
+## 🛠️ Running the Client
+
+1. Run the client script:
+
+```bash
+python OPCUAServer_GUI4a.py
+```
+
+
 ## 📬 License
 
 This project is provided as-is for SCADA testing and educational purposes.
